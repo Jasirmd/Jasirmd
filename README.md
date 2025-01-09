@@ -10,7 +10,7 @@
 
 ✨ Let’s connect and create something amazing together! 🚀
 
-## 🌐 Connect with Me    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jasir-mohammed-4149ba246/)   [![Whatsapp](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jasirmohammed72@gmail.com)  
+## 🌐 Connect with Me    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jasir-mohammed-4149ba246/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jasirmohammed72@gmail.com)  
 
 # 💻 Technical Skills
 ### Languages  
